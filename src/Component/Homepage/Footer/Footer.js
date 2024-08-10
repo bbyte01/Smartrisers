@@ -193,7 +193,7 @@ function Footer() {
                   color: "#fff",
                 }}
               >
-                info@smartraisers.com
+                info@smartrisers.com
               </Typography>
             </Grid>
             <Grid item md={3}>
