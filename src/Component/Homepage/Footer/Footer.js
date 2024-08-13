@@ -115,7 +115,7 @@ function Footer() {
                 </Typography>
               </a>
               <a href="/awards-us" style={{ textDecoration: "none" }}></a>
-              <a href="/Privacy-page" style={{ textDecoration: "none" }}>
+              <a href="/Privacy-policy" style={{ textDecoration: "none" }}>
                 <Typography
                   variant="p"
                   sx={{
