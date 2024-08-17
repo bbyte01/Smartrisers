@@ -21,7 +21,7 @@ function Privacypolicy() {
             variant="h1"
             sx={{
               fontWeight: "500",
-              fontSize: "30px",
+              fontSize: "40px",
             }}
           >
             <h4>Privacy Policy</h4>
@@ -29,7 +29,7 @@ function Privacypolicy() {
           <Typography
             variant="p"
             sx={{
-              fontWeight: 500,
+              fontWeight: "500",
               fontSize: "16px",
               display: "block",
               margin: "30px",

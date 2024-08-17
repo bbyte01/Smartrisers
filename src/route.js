@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Homeroute from "./Component/Homepage/Homeroute";
 import Privacy from "./Component/Privacy/Privacy";
 import TermsCondition from "./Component/Terms&Conditions/Terms&Conditons";
+import DeleteAccount from "./Component/DeleteAccount/Deleteaccount";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
     path: "Term & Conditon",
     element: <TermsCondition />,
   },
+  {
+    path: "delete-account",
+    element: <DeleteAccount />,
+  }, 
 ]);
 
 const Approute = () => {

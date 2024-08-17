@@ -139,6 +139,18 @@ function Footer() {
                Terms & Conditions
                 </Typography>
               </a>
+              <a href="/delete-account" style={{ textDecoration: "none" }}>
+                <Typography
+                  variant="p"
+                  sx={{
+                    display: "block",
+                    color: "#fff",
+                    mt: "10px",
+                  }}
+                >
+               Delete Account
+                </Typography>
+              </a>
               <a href="/#contact" style={{ textDecoration: "none" }}>
                 <Typography
                   variant="p"
