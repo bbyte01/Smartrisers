@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Paper, Typography,Box } from "@mui/material";
+import { Container, Paper, Typography, Box } from "@mui/material";
 import HeaderTop from "../Homepage/HeaderTop/HeaderTop";
 import Footer from "../Homepage/Footer/Footer";
 
@@ -256,7 +256,7 @@ function DeleteAccount() {
           </Typography>
         </Paper>
       </Container>
-      <Footer/>
+      <Footer />
     </Box>
   );
 }

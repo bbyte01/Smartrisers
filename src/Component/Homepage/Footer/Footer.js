@@ -136,7 +136,7 @@ function Footer() {
                     mt: "10px",
                   }}
                 >
-               Terms & Conditions
+                  Terms & Conditions
                 </Typography>
               </a>
               <a href="/delete-account" style={{ textDecoration: "none" }}>
@@ -148,7 +148,7 @@ function Footer() {
                     mt: "10px",
                   }}
                 >
-               Delete Account
+                  Delete Account
                 </Typography>
               </a>
               <a href="/#contact" style={{ textDecoration: "none" }}>

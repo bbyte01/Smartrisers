@@ -21,7 +21,7 @@ const router = createBrowserRouter([
   {
     path: "delete-account",
     element: <DeleteAccount />,
-  }, 
+  },
 ]);
 
 const Approute = () => {
